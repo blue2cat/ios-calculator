@@ -1,5 +1,5 @@
 // Gavin Stuart
-// CSCI412 Lab 2
+// iOS and Android App Development project
 
 import React, { useEffect } from "react";
 import { SafeAreaView, StyleSheet } from "react-native";
